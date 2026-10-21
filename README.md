@@ -2,7 +2,7 @@
 
 A SQL-driven analysis identifying which donor segments give the most, and why a language and education gap may be suppressing donations for the Education for All charity.
 
-[View original report (Word)](https://github.com/dataguyosif22/education-for-all-donor-insights/blob/main/Education_For_All_Donor_Insights_Report.docx) | [View original report (Markdown)](https://github.com/dataguyosif22/education-for-all-donor-insights/blob/main/Education_For_All_Original_Report.md) | [View portfolio](https://yusuf-data-analytics-portfolio.netlify.app/)
+[View original report (Word)](https://github.com/dataguyosif22/education-for-all-donor-insights/blob/main/Education_For_All_Donor_Insights_Report.docx) | [View original report (Markdown)](https://github.com/dataguyosif22/education-for-all-donor-insights/blob/main/Education_For_All_Original_Report.md) | [View portfolio](https://portfolio-case-study.netlify.app)
 
 ## Project overview
 
@@ -37,7 +37,7 @@ This project is useful to anyone evaluating whether I can take two related but u
 - Total donations reached **$249,085** across 1,000 donors. Giving was almost evenly split by gender (52% from male donors, 48% from female donors), indicating gender is not a useful variable for targeting donors in this dataset.
 - Donations were heavily concentrated by state. The top 3 states (California, Texas, Florida) contributed over **$75,000** combined, while the bottom 10 states, led by Wyoming ($258), contributed under **$7,000** combined.
 - Donors in Human Resources gave the most among the 12 job fields tracked (**$23,060**), while Legal donors gave the least (**$17,309**), despite Legal having fewer donors (66 vs. 93) rather than a proportionally lower average gift.
-- About **59% of donors** (586 of ~1,000) gave more than $200, and this group accounted for the large majority of total donations (**$205,892** of $249,085) — donation value is concentrated in a minority of higher-value donors.
+- About **59% of donors** (586 of ~1,000) gave more than $200, and this group accounted for the large majority of total donations (**$205,892** of $249,085), donation value is concentrated in a minority of higher-value donors.
 - When donation frequency was cross-referenced with the count of second-language donors, the report's central finding emerged: donors who understand a second language and have lower education levels were disproportionately represented among low-frequency and non-responsive donors, suggesting language and correspondence format play a role in disengagement.
 - Vehicle brand, used as a lifestyle/wealth proxy, showed Ford, Chevrolet, and Toyota owners as the top three donor segments by total giving.
 
