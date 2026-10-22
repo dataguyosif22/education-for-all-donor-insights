@@ -51,7 +51,12 @@ These are the original report's recommendations, derived from the patterns above
 
 ## Dashboard preview
 
-This project's evidence is presented as SQL queries and result tables inside the report rather than an interactive dashboard. See `screenshots/README.md` for how to add the original query-result screenshots to this repo.
+![Donation by gender](screenshots/donation-by-gender.png)
+![Donation by state](screenshots/donation-by-state.png)
+![Donation by frequency](screenshots/donation-by-frequency.png)
+![Donation by job field](screenshots/donation-by-job-field.png)
+![Donation threshold split](screenshots/donation-by-threshold-split.png)
+![Donation by car](screenshots/donation-by-car.png)
 
 ## Tools and technologies
 
@@ -69,8 +74,7 @@ See [`documentation/methodology.md`](documentation/methodology.md) for the full 
 ├── README.md
 ├── Education_For_All_Donor_Insights_Report.docx   # formatted write-up with all SQL queries
 ├── Education_For_All_Original_Report.md           # markdown transcript of the original report
-├── screenshots/
-│   └── README.md
+├── screenshots/                                    # query-result screenshots from the original report
 └── documentation/
     └── methodology.md
 ```
@@ -83,5 +87,4 @@ A fundraising lead or nonprofit operations manager could use this analysis to de
 
 - **Internship/training data.** The datasets were provided by 10Alytics as part of an internship exercise. There is no evidence this reflects a real charity's actual donor base, and it should not be presented as a live client engagement.
 - **No access to raw datasets in this repo.** `Donation_Data` and `Donor_Data` themselves are not included here, only the SQL queries and their result values as documented in the original report.
-- **No query-result screenshots yet.** The original report included screenshots of query outputs; those images are not yet in this repository (see `screenshots/README.md`).
 - **Single point-in-time snapshot.** The analysis reflects one export of the data, not an ongoing or refreshed reporting process.
